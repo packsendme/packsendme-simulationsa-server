@@ -17,7 +17,7 @@ import org.springframework.web.client.RestTemplate;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.packsendme.lib.common.constants.HttpExceptionPackSend;
+import com.packsendme.lib.common.constants.generic.HttpExceptionPackSend;
 import com.packsendme.lib.common.response.Response;
 import com.packsendme.microservice.simulationsa.config.Configuration;
 import com.packsendme.microservice.simulationsa.dto.SimulationsaDto;
